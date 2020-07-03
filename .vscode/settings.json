@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.urdf": "xml",
+        "xstring": "cpp",
+        "xtree": "cpp"
+    }
+}
