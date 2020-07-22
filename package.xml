@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <package>
   <name>teleop_twist_joy</name>
-  <version>0.1.2</version>
-  <description>Generic joystick teleop for twist robots.</description>
-  <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>
+  <version>0.1.3</version>
+  <description>Generic joystick teleop for twist robots, with dual control</description>
+  <maintainer email="steve@ozoid.com">Steve Lawrence</maintainer>
 
   <license>BSD</license>
 
-  <url type="website">http://wiki.ros.org/teleop_twist_joy</url>
-  <author email="mpurvis@clearpathrobotics.com">Mike Purvis</author>
+  <url type="website">http://ozoid.com</url>
+  <author email="steve@ozoid.com">Steve Lawrence</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>geometry_msgs</build_depend>
